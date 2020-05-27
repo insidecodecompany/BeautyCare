@@ -1,2 +1,2 @@
 # BeautyCare
-Projeto de TCC para salão de beleza
+Projeto de TCC para gerenciamento de salão de beleza.
